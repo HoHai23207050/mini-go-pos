@@ -15,7 +15,7 @@ The program is a small-scale Point of Sale (POS) software written in C++ combine
 
 [![Demo Video](https://img.youtube.com/vi/BgR5ysIELhw/maxresdefault.jpg)](https://youtu.be/BgR5ysIELhw)
 
-*(Note: If you have an `.mp4` file directly in your repository, you can use the HTML tag `<video src="link-to-video.mp4" controls="controls" width="100%"></video>` instead)*
+
 
 ---
 
